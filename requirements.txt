@@ -1,0 +1,9 @@
+fastapi==0.68.0
+pydantic==1.8.2
+uvicorn==0.15.0
+streamlit==0.88.0
+requests==2.26.0
+beautifulsoup4==4.9.3
+vllm==0.1.0
+google-api-python-client==2.0.2
+youtube_transcript_api==0.4.1
