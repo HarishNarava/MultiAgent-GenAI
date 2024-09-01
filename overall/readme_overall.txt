@@ -66,7 +66,7 @@ Remember to follow best practices for code organization, error handling, and API
 
 ===============================================================================================================
 
-THE FLOW OF THE PROJECT and what's happening at each stage:
+# THE FLOW OF THE PROJECT and what's happening at each stage:
 
 Project Initialization:
 
